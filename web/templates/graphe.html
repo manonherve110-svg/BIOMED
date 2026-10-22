@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Knowledge Graph — GPER / GBM</title>
+
+  <!-- vis-network -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css"
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" crossorigin="anonymous"
+    referrerpolicy="no-referrer" defer></script>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+    crossorigin="anonymous" />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+    crossorigin="anonymous" defer></script>
+
+  <!-- Ton CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/graphe.css') }}">
+  <!-- Ton JS (après vis-network grâce à defer + ordre) -->
+  <script src="{{ url_for('static', filename='js/graphe.js') }}" defer></script>
+</head>
+
+<body>
+  <div class="page">
+    <!-- GAUCHE : Graphe -->
+    <div class="left panel">
+      <div class="panel-header">Graphe de Connaissance</div>
+      <div class="panel-body network-wrap">
+        <div id="mynetwork"></div>
+      </div>
+      <!-- Légende -->
+      <div
+        style="padding:6px 12px; background:#f8f9fa; border-top:1px solid #dee2e6; display:flex; gap:20px; align-items:center; font-size:0.82rem; color:#333;">
+        <strong style="margin-right:4px;">Légende :</strong>
+
+        <!-- Hexagone = Protéine -->
+        <span style="display:flex;align-items:center;gap:5px;">
+          <svg width="22" height="22" viewBox="-12 -12 24 24">
+            <polygon points="0,-10 8.66,-5 8.66,5 0,10 -8.66,5 -8.66,-5" fill="#97C2FC" stroke="#2B7CE9"
+              stroke-width="1.5" />
+          </svg>
+          Protéine
+        </span>
+
+        <!-- Losange = Ligand -->
+        <span style="display:flex;align-items:center;gap:5px;">
+          <svg width="22" height="22" viewBox="-12 -12 24 24">
+            <polygon points="0,-10 10,0 0,10 -10,0" fill="#97C2FC" stroke="#2B7CE9" stroke-width="1.5" />
+          </svg>
+          Ligand
+        </span>
+
+        <!-- Triangle = Glioblastome -->
+        <span style="display:flex;align-items:center;gap:5px;">
+          <svg width="22" height="22" viewBox="-12 -12 24 24">
+            <polygon points="0,-10 10,10 -10,10" fill="#E74C3C" stroke="#C0392B" stroke-width="1.5" />
+          </svg>
+          Glioblastome
+        </span>
+
+        <!-- Petit trait vert = Solution 1 -->
+        <span style="display:flex;align-items:center;gap:5px; align-items:center;">
+          <svg width="22" height="6" viewBox="0 0 22 6">
+            <rect width="22" height="6" fill="#4BD1C3" />
+          </svg>
+          Solution 1 - Similarité de Jaccard seq acide aminée
+        </span>
+
+        <!-- Petit trait vert = Solution 2 -->
+        <span style="display:flex;align-items:center;gap:5px; align-items:center;">
+          <svg width="22" height="6" viewBox="0 0 22 6">
+            <rect width="22" height="6" fill="#EF9C42" />
+          </svg>
+          Solution 2 - Recherche des plus longs blocs communs
+        </span>
+
+      </div>
+    </div>
+
+    <!-- DROITE -->
+    <div class="right">
+      <!-- Droite haut : fiche entité -->
+      <div class="panel">
+        <div class="panel-header">Détails (protéine / ligand)</div>
+        <div class="panel-body" id="proteinPanel">
+          <div class="text-muted">Clique sur un nœud pour afficher ses infos.</div>
+        </div>
+      </div>
+
+      <!-- Droite bas : templates + builder -->
+      <div class="panel">
+        <div class="panel-header">Sélection de graphe</div>
+        <div class="panel-body">
+
+          <!-- Templates -->
+          <div class="mb-3">
+            <div id="graphModes" class="d-grid gap-2"></div>
+          </div>
+
+          <hr />
+
+          <!-- Builder -->
+          <div class="small text-muted mb-2">Construire un sous-graphe</div>
+
+          <input type="hidden" id="seedInput" value="GPER">
+          <input type="hidden" id="kInput" value="1">
+
+          <!-- Max résultats: affiché inline à droite des boutons -->
+
+          <div class="mt-2">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="relPPI" checked>
+              <label class="form-check-label" for="relPPI">Lien GPER - gènes</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="relBINDS">
+              <label class="form-check-label" for="relBINDS">Lien GPER - ligands</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="relPRED">
+              <label class="form-check-label" for="relPRED">Prediction lien GPER - ligands</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="relTCGA">
+              <label class="form-check-label" for="relTCGA">Expression du GBM (résumé)</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" id="relTCGA_DETAIL">
+              <label class="form-check-label" for="relTCGA_DETAIL">Patients GBM (détail GPER)</label>
+            </div>
+          </div>
+
+          <div class="mt-3 d-flex gap-2 flex-wrap w-100">
+            <div>
+              <button class="btn btn-primary btn-sm" id="btnBuild">Charger</button>
+              <button class="btn btn-outline-secondary btn-sm" id="btnFit">Fit</button>
+              <a class="btn btn-outline-secondary btn-sm" href="/">Menu</a>
+            </div>
+            <div class="ms-auto d-flex align-items-center">
+              <label class="form-label small mb-0 me-2" for="maxNInput">Max résultats</label>
+              <input class="form-control form-control-sm" id="maxNInput" type="number" min="1" max="1000" value="50"
+                style="width:90px" />
+            </div>
+          </div>
+
+          <div class="mt-2 small text-muted" id="statusLine"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>

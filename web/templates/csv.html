@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Données CSV</title>
+    <link rel="stylesheet" href="../static/css/csv.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Données</h1>
+        
+        <div class="search-bar">
+            <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px;">
+                <input type="text" id="searchInput" placeholder="Rechercher..." style="flex: 1; min-width: 150px;">
+                <select id="categorySelect" style="padding: 8px;">
+                    <option value="ligands">Ligands</option>
+                    <option value="gper">GPER</option>
+                    <option value="gpcr">GPCR</option>
+                    <option value="tcga">TCGA</option>
+                </select>
+                <select id="sourceSelect" style="padding: 8px;">
+                    <option value="all">Tous</option>
+                </select>
+                <button id="searchBtn" style="padding: 8px 16px; cursor: pointer;">Rechercher</button>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <table id="dataTable">
+                <thead id="tableHead">
+                </thead>
+                <tbody id="tableBody">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Configuration des colonnes par catégorie
+        const columnConfig = {
+            ligands: [
+                { key: 'source_id', label: 'Source ID', tooltip: 'Identifiant de la source (PubChem/ChEMBL)' },
+                { key: 'origin', label: 'Origine', tooltip: 'Base de données source' },
+                { key: 'activity_type', label: 'Type Activité', tooltip: 'Type de mesure d\'activité' },
+                { key: 'activity_value', label: 'Valeur', tooltip: 'Valeur de l\'activité' },
+                { key: 'activity_unit', label: 'Unité', tooltip: 'Unité de mesure' },
+                { key: 'canonical_smiles', label: 'SMILES', tooltip: 'Notation SMILES canonique' }
+            ],
+            gper: [
+                { key: 'source_id', label: 'Source ID', tooltip: 'Identifiant UniProt/AlphaFold' },
+                { key: 'name', label: 'Nom', tooltip: 'Nom de la protéine' },
+                { key: 'gene', label: 'Gène', tooltip: 'Symbole du gène' },
+                { key: 'description', label: 'Description', tooltip: 'Description de la protéine' },
+                { key: 'organismScientificName', label: 'Organisme', tooltip: 'Nom scientifique' },
+                { key: 'mass', label: 'Masse', tooltip: 'Masse moléculaire' },
+                { key: 'Interacts with', label: 'Interactions', tooltip: 'Protéines en interaction' }
+            ],
+            gpcr: [
+                { key: 'source_id', label: 'Source ID', tooltip: 'Identifiant UniProt/AlphaFold' },
+                { key: 'name', label: 'Nom', tooltip: 'Nom de la protéine' },
+                { key: 'gene', label: 'Gène', tooltip: 'Symbole du gène' },
+                { key: 'description', label: 'Description', tooltip: 'Description de la protéine' },
+                { key: 'organismScientificName', label: 'Organisme', tooltip: 'Nom scientifique' },
+                { key: 'globalMetricValue', label: 'Score AlphaFold', tooltip: 'Score de confiance AlphaFold' }
+            ],
+            tcga: [
+                { key: 'Unnamed: 0', label: 'Sample ID', tooltip: 'Identifiant de l\'échantillon TCGA' },
+                { key: 'GPER', label: 'GPER', tooltip: 'Expression de GPER' },
+                { key: 'ESR1', label: 'ESR1', tooltip: 'Expression de ESR1' },
+                { key: 'ESR2', label: 'ESR2', tooltip: 'Expression de ESR2' },
+                { key: 'age_at_initial_pathologic_diagnosis', label: 'Âge', tooltip: 'Âge au diagnostic' },
+                { key: 'gender', label: 'Genre', tooltip: 'Genre du patient' },
+                { key: 'sample_type', label: 'Type', tooltip: 'Type d\'échantillon' }
+            ]
+        };
+
+        // Sources disponibles par catégorie
+        const sourceConfig = {
+            ligands: ['Tous', 'PubChem', 'ChEMBL'],
+            gper: ['Tous', 'UniProt', 'AlphaFold'],
+            gpcr: ['Tous', 'UniProt', 'AlphaFold'],
+            tcga: ['TCGA']
+        };
+
+        let allData = [];
+
+        function updateSourceOptions(category) {
+            const sourceSelect = document.getElementById('sourceSelect');
+            const sources = sourceConfig[category] || ['Tous'];
+            sourceSelect.innerHTML = sources.map(s => 
+                `<option value="${s.toLowerCase()}">${s}</option>`
+            ).join('');
+        }
+
+        function buildTableHeader(columns) {
+            const thead = document.getElementById('tableHead');
+            thead.innerHTML = `<tr>${columns.map(col => 
+                `<th>${col.label} <span class="info-icon">i<span class="tooltip">${col.tooltip}</span></span></th>`
+            ).join('')}<th>Graphe</th></tr>`;
+        }
+
+        function buildTableBody(data, columns) {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            
+            if (data.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="' + (columns.length + 1) + '" style="text-align: center;">Aucune donnée trouvée</td></tr>';
+                return;
+            }
+            
+            data.forEach(row => {
+                const tr = document.createElement('tr');
+                const idKey = columns[0].key;
+                const idValue = row[idKey] || row.source_id || '';
+                tr.innerHTML = columns.map(col => {
+                    let val = row[col.key] || '';
+                    // Tronquer les valeurs longues
+                    if (typeof val === 'string' && val.length > 50) {
+                        val = val.substring(0, 47) + '...';
+                    }
+                    return `<td title="${row[col.key] || ''}">${val}</td>`;
+                }).join('') +
+                    `<td><button onclick="showGraph('${idValue}')">Voir</button></td>`;
+                tbody.appendChild(tr);
+            });
+        }
+
+        function loadData() {
+            const category = document.getElementById('categorySelect').value;
+            const source = document.getElementById('sourceSelect').value;
+            const columns = columnConfig[category] || columnConfig.ligands;
+            
+            buildTableHeader(columns);
+            document.getElementById('tableBody').innerHTML = '<tr><td colspan="' + (columns.length + 1) + '">Chargement...</td></tr>';
+            
+            fetch(`/api/data?category=${category}&source=${source}`)
+                .then(response => response.json())
+                .then(data => {
+                    allData = data;
+                    buildTableBody(data, columns);
+                })
+                .catch(error => {
+                    console.error('Erreur:', error);
+                    document.getElementById('tableBody').innerHTML = '<tr><td colspan="' + (columns.length + 1) + '">Erreur de chargement</td></tr>';
+                });
+        }
+
+        function filterData(searchTerm) {
+            const category = document.getElementById('categorySelect').value;
+            const columns = columnConfig[category] || columnConfig.ligands;
+            const filtered = allData.filter(row => 
+                columns.some(col => String(row[col.key] || '').toLowerCase().includes(searchTerm.toLowerCase()))
+            );
+            buildTableBody(filtered, columns);
+        }
+
+        function showGraph(id) {
+            window.location.href = `/graphe?seed=${encodeURIComponent(id)}`;
+        }
+
+        // Event listeners
+        document.getElementById('categorySelect').addEventListener('change', (e) => {
+            updateSourceOptions(e.target.value);
+            loadData();
+        });
+        document.getElementById('sourceSelect').addEventListener('change', () => loadData());
+        document.getElementById('searchBtn').addEventListener('click', () => filterData(document.getElementById('searchInput').value));
+        document.getElementById('searchInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') filterData(e.target.value);
+        });
+
+        // Chargement initial
+        updateSourceOptions('ligands');
+        loadData();
+    </script>
+</body>
+</html>

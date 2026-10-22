@@ -1,0 +1,65 @@
+html,body{
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/fond.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+
+
+h1{
+    color:black;
+}
+h2{
+    font-size: 35px;
+    color:#ccc;
+}
+
+
+a,p {
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.content{
+    margin-top: 8%;
+    margin-left: 10%;
+    display : flex;
+    width: 80%;
+    height: 50%;
+    justify-content: space-between;
+}
+
+.box_choice{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    width: 40%;
+    height: 100%;
+    position: relative;
+    margin-bottom:30px;
+}
+
+.button{
+    padding: 15px;
+    margin-top: 10px;
+    margin: 10px;
+    width: 70%;
+    background-color:#fff;
+    color: black;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}

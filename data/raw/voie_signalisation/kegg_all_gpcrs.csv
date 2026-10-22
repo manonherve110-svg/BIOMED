@@ -1,0 +1,766 @@
+gene_id,symbol,name,class,family
+hsa:1128,CHRM1,cholinergic receptor muscarinic 1	K04129 CHRM1; muscarinic acetylcholine receptor M1,Biogenic amine,Acetylcholine (muscarinic)
+hsa:1129,CHRM2,cholinergic receptor muscarinic 2	K04130 CHRM2; muscarinic acetylcholine receptor M2,Biogenic amine,Acetylcholine (muscarinic)
+hsa:1131,CHRM3,cholinergic receptor muscarinic 3	K04131 CHRM3; muscarinic acetylcholine receptor M3,Biogenic amine,Acetylcholine (muscarinic)
+hsa:1132,CHRM4,cholinergic receptor muscarinic 4	K04132 CHRM4; muscarinic acetylcholine receptor M4,Biogenic amine,Acetylcholine (muscarinic)
+hsa:1133,CHRM5,cholinergic receptor muscarinic 5	K04133 CHRM5; muscarinic acetylcholine receptor M5,Biogenic amine,Acetylcholine (muscarinic)
+hsa:148,ADRA1A,adrenoceptor alpha 1A	K04135 ADRA1A; adrenergic receptor alpha-1A,Biogenic amine,Adrenaline
+hsa:147,ADRA1B,adrenoceptor alpha 1B	K04136 ADRA1B; adrenergic receptor alpha-1B,Biogenic amine,Adrenaline
+hsa:146,ADRA1D,adrenoceptor alpha 1D	K04137 ADRA1D; adrenergic receptor alpha-1D,Biogenic amine,Adrenaline
+hsa:150,ADRA2A,adrenoceptor alpha 2A	K04138 ADRA2A; adrenergic receptor alpha-2A,Biogenic amine,Adrenaline
+hsa:151,ADRA2B,adrenoceptor alpha 2B	K04139 ADRA2B; adrenergic receptor alpha-2B,Biogenic amine,Adrenaline
+hsa:152,ADRA2C,adrenoceptor alpha 2C	K04140 ADRA2C; adrenergic receptor alpha-2C,Biogenic amine,Adrenaline
+hsa:153,ADRB1,adrenoceptor beta 1	K04141 ADRB1; adrenergic receptor beta-1,Biogenic amine,Adrenaline
+hsa:154,ADRB2,adrenoceptor beta 2	K04142 ADRB2; adrenergic receptor beta-2,Biogenic amine,Adrenaline
+hsa:155,ADRB3,adrenoceptor beta 3	K04143 ADRB3; adrenergic receptor beta-3,Biogenic amine,Adrenaline
+hsa:1812,DRD1,dopamine receptor D1	K04144 DRD1; dopamine receptor D1,Biogenic amine,Dopamine
+hsa:1813,DRD2,dopamine receptor D2	K04145 DRD2; dopamine receptor D2,Biogenic amine,Dopamine
+hsa:1814,DRD3,dopamine receptor D3	K04146 DRD3; dopamine receptor D3,Biogenic amine,Dopamine
+hsa:1815,DRD4,dopamine receptor D4	K04147 DRD4; dopamine receptor D4,Biogenic amine,Dopamine
+hsa:1816,DRD5,dopamine receptor D5	K05840 DRD5; dopamine receptor D5,Biogenic amine,Dopamine
+hsa:3269,HRH1,histamine receptor H1	K04149 HRH1; histamine receptor H1,Biogenic amine,Histamine
+hsa:3274,HRH2,histamine receptor H2	K04150 HRH2; histamine receptor H2,Biogenic amine,Histamine
+hsa:11255,HRH3,histamine receptor H3	K04151 HRH3; histamine receptor H3,Biogenic amine,Histamine
+hsa:59340,HRH4,histamine receptor H4	K04152 HRH4; histamine receptor H4,Biogenic amine,Histamine
+hsa:3350,HTR1A,5-hydroxytryptamine receptor 1A	K04153 HTR1; 5-hydroxytryptamine receptor 1,Biogenic amine,Serotonin
+hsa:3351,HTR1B,5-hydroxytryptamine receptor 1B	K04153 HTR1; 5-hydroxytryptamine receptor 1,Biogenic amine,Serotonin
+hsa:3352,HTR1D,5-hydroxytryptamine receptor 1D	K04153 HTR1; 5-hydroxytryptamine receptor 1,Biogenic amine,Serotonin
+hsa:3354,HTR1E,5-hydroxytryptamine receptor 1E	K04153 HTR1; 5-hydroxytryptamine receptor 1,Biogenic amine,Serotonin
+hsa:3355,HTR1F,5-hydroxytryptamine receptor 1F	K04153 HTR1; 5-hydroxytryptamine receptor 1,Biogenic amine,Serotonin
+hsa:3356,HTR2A,5-hydroxytryptamine receptor 2A	K04157 HTR2; 5-hydroxytryptamine receptor 2,Biogenic amine,Serotonin
+hsa:3357,HTR2B,5-hydroxytryptamine receptor 2B	K04157 HTR2; 5-hydroxytryptamine receptor 2,Biogenic amine,Serotonin
+hsa:3358,HTR2C,5-hydroxytryptamine receptor 2C	K04157 HTR2; 5-hydroxytryptamine receptor 2,Biogenic amine,Serotonin
+hsa:3360,HTR4,5-hydroxytryptamine receptor 4	K04160 HTR4; 5-hydroxytryptamine receptor 4,Biogenic amine,Serotonin
+hsa:3361,HTR5A,5-hydroxytryptamine receptor 5A	K04161 HTR5; 5-hydroxytryptamine receptor 5,Biogenic amine,Serotonin
+hsa:3362,HTR6,5-hydroxytryptamine receptor 6	K04162 HTR6; 5-hydroxytryptamine receptor 6,Biogenic amine,Serotonin
+hsa:3363,HTR7,5-hydroxytryptamine receptor 7	K04163 HTR7; 5-hydroxytryptamine receptor 7,Biogenic amine,Serotonin
+hsa:134860,TAAR9,trace amine associated receptor 9	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:134864,TAAR1,trace amine associated receptor 1	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:319100,TAAR6,trace amine associated receptor 6	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:83551,TAAR8,trace amine associated receptor 8	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:9038,TAAR5,trace amine associated receptor 5	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:9287,TAAR2,trace amine associated receptor 2	K05051 TAAR; trace amine associated receptor,Biogenic amine,Trace amine
+hsa:11318,ACKR5,atypical chemokine receptor 5	K04242 ADMR; adrenomedullin receptor,Peptide,Adrenomedullin (G10D)
+hsa:2842,GPR19,G protein-coupled receptor 19	K04316 GPR19; G protein-coupled receptor 19,Peptide,Adropin
+hsa:187,APLNR,apelin receptor	K04174 APLNR; apelin receptor,Peptide,Apelin
+hsa:719,C3AR1,complement C3a receptor 1	K04009 C3AR1; C3a anaphylatoxin chemotactic receptor,Peptide,Anaphylatoxin
+hsa:728,C5AR1,complement C5a receptor 1	K04010 C5AR1; C5a anaphylatoxin chemotactic receptor 1,Peptide,Anaphylatoxin
+hsa:27202,C5AR2,complement C5a receptor 2	K04171 C5AR2; C5a anaphylatoxin chemotactic receptor 2,Peptide,Anaphylatoxin
+hsa:185,AGTR1,angiotensin II receptor type 1	K04166 AGTR1; angiotensin II receptor type 1,Peptide,Angiotensin
+hsa:186,AGTR2,angiotensin II receptor type 2	K04167 AGTR2; angiotensin II receptor type 2,Peptide,Angiotensin
+hsa:29909,GPR171,G protein-coupled receptor 171	K08441 GPR171; G protein-coupled receptor 171,Peptide,BigLEN
+hsa:4829,NMBR,neuromedin B receptor	K04168 NMBR; neuromedin B receptor,Peptide,Bombesin
+hsa:2925,GRPR,gastrin releasing peptide receptor	K04169 GRPR; gastrin-releasing peptide receptor,Peptide,Bombesin
+hsa:680,BRS3,bombesin receptor subtype 3	K04170 BRS3; bombesin receptor subtype-3,Peptide,Bombesin
+hsa:623,BDKRB1,bradykinin receptor B1	K03915 BDKRB1; bradykinin receptor B1,Peptide,Bradykinin
+hsa:624,BDKRB2,bradykinin receptor B2	K03916 BDKRB2; bradykinin receptor B2,Peptide,Bradykinin
+hsa:886,CCKAR,cholecystokinin A receptor	K04194 CCKAR; cholecystokinin A receptor,Peptide,Cholecystokinin
+hsa:887,CCKBR,cholecystokinin B receptor	K04195 CCKBR; cholecystokinin B receptor,Peptide,Cholecystokinin
+hsa:1909,EDNRA,endothelin receptor type A	K04197 EDNRA; endothelin receptor type A,Peptide,Endothelin
+hsa:1910,EDNRB,endothelin receptor type B	K04198 EDNRB; endothelin receptor type B,Peptide,Endothelin
+hsa:2357,FPR1,formyl peptide receptor 1	K04172 FPR1; formyl peptide receptor 1,Peptide,fMet-Leu-Phe
+hsa:2358,FPR2,formyl peptide receptor 2	K04173 FPRL; formyl peptide receptor-like,Peptide,fMet-Leu-Phe
+hsa:2359,FPR3,formyl peptide receptor 3	K04173 FPRL; formyl peptide receptor-like,Peptide,fMet-Leu-Phe
+hsa:2492,FSHR,follicle stimulating hormone receptor	K04247 FSHR; follicle stimulating hormone receptor,Peptide,Follicle stimulating hormone (FSH)
+hsa:2587,GALR1,galanin receptor 1	K04230 GALR1; galanin receptor 1,Peptide,Galanin
+hsa:8811,GALR2,galanin receptor 2	K04231 GALR2; galanin receptor 2,Peptide,Galanin
+hsa:8484,GALR3,galanin receptor 3	K04232 GALR3; galanin receptor 3,Peptide,Galanin
+hsa:84634,KISS1R,KISS1 receptor	K08374 KISS1R; KISS1 receptor,Peptide,Galanin
+hsa:2693,GHSR,growth hormone secretagogue receptor	K04284 GHSR; growth hormone secretagogue receptor,Peptide,Ghrelin
+hsa:2798,GNRHR,gonadotropin releasing hormone receptor	K04280 GNRHR; gonadotropin-releasing hormone receptor,Peptide,Gonadotropin-releasing hormone (GnRH)
+hsa:54328,GPR173,G protein-coupled receptor 173	K04300 SREB3; super conserved receptor expressed in brain 3,Peptide,Gonadotropin-releasing hormone (GnRH)
+hsa:3973,LHCGR,luteinizing hormone/choriogonadotropin receptor	K04248 LHCGR; lutropin-choriogonadotropic hormone receptor,Peptide,Lutropin-choriogonadotropic hormone
+hsa:2847,MCHR1,melanin concentrating hormone receptor 1	K04320 MCHR1; melanin-concentrating hormone receptor 1,Peptide,Melanin-concentrating hormone (MCH)
+hsa:84539,MCHR2,melanin concentrating hormone receptor 2	K05054 MCHR2; melanin-concentrating hormone receptor 2,Peptide,Melanin-concentrating hormone (MCH)
+hsa:4157,MC1R,melanocortin 1 receptor	K04199 MC1R; melanocortin 1 receptor,Peptide,Melanocortin
+hsa:4158,MC2R,melanocortin 2 receptor	K04200 MC2R; melanocortin 2 receptor,Peptide,Melanocortin
+hsa:4159,MC3R,melanocortin 3 receptor	K04201 MC3R; melanocortin 3 receptor,Peptide,Melanocortin
+hsa:4160,MC4R,melanocortin 4 receptor	K04202 MC4R; melanocortin 4 receptor,Peptide,Melanocortin
+hsa:4161,MC5R,melanocortin 5 receptor	K04203 MC5R; melanocortin 5 receptor,Peptide,Melanocortin
+hsa:2862,MLNR,motilin receptor	K05266 MLNR; motilin receptor,Peptide,Motilin
+hsa:10316,NMUR1,neuromedin U receptor 1	K05052 NMUR1; neuromedin U receptor 1,Peptide,Neuromedin U
+hsa:56923,NMUR2,neuromedin U receptor 2	K05053 NMUR2; neuromedin U receptor 2,Peptide,Neuromedin U
+hsa:64106,NPFFR1,neuropeptide FF receptor 1	K04240 NPFFR1; neuropeptide FF receptor 1,Peptide,Neuropeptide FF
+hsa:10886,NPFFR2,neuropeptide FF receptor 2	K08375 NPFFR2; neuropeptide FF receptor 2,Peptide,Neuropeptide FF
+hsa:387129,NPSR1,neuropeptide S receptor 1	K08376 NPSR1; neuropeptide S receptor,Peptide,Neuropeptide S
+hsa:2831,NPBWR1,neuropeptides B and W receptor 1	K05268 NPBWR1; neuropeptides B/W receptor 1,Peptide,Neuropeptide W / neuropeptide B
+hsa:2832,NPBWR2,neuropeptides B and W receptor 2	K08377 NPBWR2; neuropeptides B/W receptor 2,Peptide,Neuropeptide W / neuropeptide B
+hsa:4886,NPY1R,neuropeptide Y receptor Y1	K04204 NPY1R; neuropeptide Y receptor type 1,Peptide,Neuropeptide Y
+hsa:4887,NPY2R,neuropeptide Y receptor Y2	K04205 NPY2R; neuropeptide Y receptor type 2,Peptide,Neuropeptide Y
+hsa:100996758,NPY4R2,neuropeptide Y receptor Y4-2	K04206 NPY4R; neuropeptide Y receptor type 4,Peptide,Neuropeptide Y
+hsa:5540,NPY4R,neuropeptide Y receptor Y4	K04206 NPY4R; neuropeptide Y receptor type 4,Peptide,Neuropeptide Y
+hsa:4889,NPY5R,neuropeptide Y receptor Y5	K04207 NPY5R; neuropeptide Y receptor type 5,Peptide,Neuropeptide Y
+hsa:10888,GPR83,G protein-coupled receptor 83	K04210 GPR83; G protein-coupled receptor 83,Peptide,Neuropeptide Y
+hsa:4923,NTSR1,neurotensin receptor 1	K04211 NTSR1; neurotensin receptor 1,Peptide,Neurotensin
+hsa:23620,NTSR2,neurotensin receptor 2	K04212 NTSR2; neurotensin receptor 2,Peptide,Neurotensin
+hsa:4985,OPRD1,opioid receptor delta 1	K04213 OPRD1; delta-type opioid receptor,Peptide,Opioid
+hsa:4986,OPRK1,opioid receptor kappa 1	K04214 OPRK1; kappa-type opioid receptor,Peptide,Opioid
+hsa:4988,OPRM1,opioid receptor mu 1	K04215 OPRM1; mu-type opioid receptor,Peptide,Opioid
+hsa:4987,OPRL1,opioid related nociceptin receptor 1	K04216 OPRL1; nociceptin receptor,Peptide,Opioid
+hsa:11054,OGFR,opioid growth factor receptor	K27951 OGFR; opioid growth factor receptor,Peptide,Opioid
+hsa:79627,OGFRL1,opioid growth factor receptor like 1	K27951 OGFR; opioid growth factor receptor,Peptide,Opioid
+hsa:84109,QRFPR,pyroglutamylated RFamide peptide receptor	K08378 QRFPR; pyroglutamylated RFamide peptide receptor,Peptide,Orexigenic neuropeptide QRFP
+hsa:3061,HCRTR1,hypocretin receptor 1	K04238 HCRTR1; hypocretin (orexin) receptor 1,Peptide,Orexin
+hsa:3062,HCRTR2,hypocretin receptor 2	K04239 HCRTR2; hypocretin (orexin) receptor 2,Peptide,Orexin
+hsa:5021,OXTR,oxytocin receptor	K04229 OXTR; oxytocin receptor,Peptide,Oxytocin
+hsa:10887,PROKR1,prokineticin receptor 1	K08379 PROKR1; prokineticin receptor 1,Peptide,Prokineticin
+hsa:128674,PROKR2,prokineticin receptor 2	K08380 PROKR2; prokineticin receptor 2,Peptide,Prokineticin
+hsa:2834,PRLHR,prolactin releasing hormone receptor	K04314 PRLHR; prolactin releasing hormone receptor,Peptide,Prolactin-releasing peptide (PrRP)
+hsa:2861,GPR37,G protein-coupled receptor 37	K04243 GPR37; prosaposin receptor,Peptide,Prosaposin
+hsa:9283,GPR37L1,G protein-coupled receptor 37 like 1	K04244 GPR37L1; prosaposin receptor,Peptide,Prosaposin
+hsa:59350,RXFP1,relaxin family peptide receptor 1	K04306 RXFP1; relaxin family peptide receptor 1,Peptide,Relaxin
+hsa:122042,RXFP2,relaxin family peptide receptor 2	K04307 RXFP2; relaxin family peptide receptor 2,Peptide,Relaxin
+hsa:51289,RXFP3,relaxin family peptide receptor 3	K08397 RXFP3; relaxin family peptide receptor 3,Peptide,Relaxin
+hsa:339403,RXFP4,relaxin family peptide/INSL5 receptor 4	K08398 RXFP4; relaxin family peptide receptor 4,Peptide,Relaxin
+hsa:6751,SSTR1,somatostatin receptor 1	K04217 SSTR1; somatostatin receptor 1,Peptide,Somatostatin
+hsa:6752,SSTR2,somatostatin receptor 2	K04218 SSTR2; somatostatin receptor 2,Peptide,Somatostatin
+hsa:6753,SSTR3,somatostatin receptor 3	K04219 SSTR3; somatostatin receptor 3,Peptide,Somatostatin
+hsa:6754,SSTR4,somatostatin receptor 4	K04220 SSTR4; somatostatin receptor 4,Peptide,Somatostatin
+hsa:6755,SSTR5,somatostatin receptor 5	K04221 SSTR5; somatostatin receptor 5,Peptide,Somatostatin
+hsa:6869,TACR1,tachykinin receptor 1	K04222 TACR1; tachykinin receptor 1,Peptide,Tachykinin
+hsa:6865,TACR2,tachykinin receptor 2	K04223 TACR2; tachykinin receptor 2,Peptide,Tachykinin
+hsa:6870,TACR3,tachykinin receptor 3	K04224 TACR3; tachykinin receptor 3,Peptide,Tachykinin
+hsa:2149,F2R,coagulation factor II thrombin receptor	K03914 F2R; coagulation factor II (thrombin) receptor,Peptide,Thrombin
+hsa:2150,F2RL1,F2R like trypsin receptor 1	K04234 F2RL1; coagulation factor II (thrombin) receptor-like 1,Peptide,Thrombin
+hsa:2151,F2RL2,coagulation factor II thrombin receptor like 2	K04235 F2RL2; coagulation factor II (thrombin) receptor-like 2,Peptide,Thrombin
+hsa:9002,F2RL3,F2R like thrombin or trypsin receptor 3	K04236 F2RL3; coagulation factor II (thrombin) receptor-like 3,Peptide,Thrombin
+hsa:7253,TSHR,thyroid stimulating hormone receptor	K04249 TSHR; thyrotropin receptor,Peptide,Thyrotropin
+hsa:7201,TRHR,thyrotropin releasing hormone receptor	K04282 TRHR; thyrotropin-releasing hormone receptor,Peptide,Thyrotropin-releasing hormone (TRH)
+hsa:2837,UTS2R,urotensin 2 receptor	K04241 UTS2R; urotensin 2 receptor,Peptide,Urotensin II
+hsa:552,AVPR1A,arginine vasopressin receptor 1A	K04226 AVPR1A; arginine vasopressin receptor 1A,Peptide,Vasopressin
+hsa:553,AVPR1B,arginine vasopressin receptor 1B	K04227 AVPR1B; arginine vasopressin receptor 1B,Peptide,Vasopressin
+hsa:554,AVPR2,arginine vasopressin receptor 2	K04228 AVPR2; arginine vasopressin receptor 2,Peptide,Vasopressin
+hsa:1230,CCR1,C-C motif chemokine receptor 1	K04176 CCR1; C-C chemokine receptor type 1,Chemokine,CC Chemokine
+hsa:729230,CCR2,C-C motif chemokine receptor 2	K04177 CCR2; C-C chemokine receptor type 2,Chemokine,CC Chemokine
+hsa:1232,CCR3,C-C motif chemokine receptor 3	K04178 CCR3; C-C chemokine receptor type 3,Chemokine,CC Chemokine
+hsa:1233,CCR4,C-C motif chemokine receptor 4	K04179 CCR4; C-C chemokine receptor type 4,Chemokine,CC Chemokine
+hsa:1234,CCR5,C-C motif chemokine receptor 5	K04180 CCR5; C-C chemokine receptor type 5,Chemokine,CC Chemokine
+hsa:1235,CCR6,C-C motif chemokine receptor 6	K04181 CCR6; C-C chemokine receptor type 6,Chemokine,CC Chemokine
+hsa:1236,CCR7,C-C motif chemokine receptor 7	K04182 CCR7; C-C chemokine receptor type 7,Chemokine,CC Chemokine
+hsa:1237,CCR8,C-C motif chemokine receptor 8	K04183 CCR8; C-C chemokine receptor type 8,Chemokine,CC Chemokine
+hsa:10803,CCR9,C-C motif chemokine receptor 9	K04184 CCR9; C-C chemokine receptor type 9,Chemokine,CC Chemokine
+hsa:2826,CCR10,C-C motif chemokine receptor 10	K04185 CCR10; C-C chemokine receptor type 10,Chemokine,CC Chemokine
+hsa:2532,ACKR1,atypical chemokine receptor 1 (Duffy blood group)	K06574 ACKR1; atypical chemokine receptor 1,Chemokine,CC Chemokine
+hsa:1238,ACKR2,atypical chemokine receptor 2	K04187 ACKR2; atypical chemokine receptor 2,Chemokine,CC Chemokine
+hsa:51554,ACKR4,atypical chemokine receptor 4	K04186 ACKR4; atypical chemokine receptor 4,Chemokine,CC Chemokine
+hsa:9034,CCRL2,C-C motif chemokine receptor like 2	K08373 CCRL2; C-C chemokine receptor-like 2,Chemokine,CC Chemokine
+hsa:10936,GPR75,G protein-coupled receptor 75	K08417 GPR75; G protein-coupled receptor 75,Chemokine,CC Chemokine
+hsa:3577,CXCR1,C-X-C motif chemokine receptor 1	K04175 CXCR1; C-X-C chemokine receptor type 1,Chemokine,CXC Chemokine
+hsa:3579,CXCR2,C-X-C motif chemokine receptor 2	K05050 CXCR2; C-X-C chemokine receptor type 2,Chemokine,CXC Chemokine
+hsa:2833,CXCR3,C-X-C motif chemokine receptor 3	K04188 CXCR3; C-X-C chemokine receptor type 3,Chemokine,CXC Chemokine
+hsa:7852,CXCR4,C-X-C motif chemokine receptor 4	K04189 CXCR4; C-X-C chemokine receptor type 4,Chemokine,CXC Chemokine
+hsa:643,CXCR5,C-X-C motif chemokine receptor 5	K04190 CXCR5; C-X-C chemokine receptor type 5,Chemokine,CXC Chemokine
+hsa:10663,CXCR6,C-X-C motif chemokine receptor 6	K04191 CXCR6; C-X-C chemokine receptor type 6,Chemokine,CXC Chemokine
+hsa:57007,ACKR3,atypical chemokine receptor 3	K04304 CXCR7; C-X-C chemokine receptor type 7 (atypical chemokine receptor 3),Chemokine,CXC Chemokine
+hsa:2859,GPR35,G protein-coupled receptor 35	K04276 CXCR8; C-X-C chemokine receptor type 8,Chemokine,CXC Chemokine
+hsa:1524,CX3CR1,C-X3-C motif chemokine receptor 1	K04192 CX3CR1; CX3C chemokine receptor 1,Chemokine,CX3C Chemokine
+hsa:2829,XCR1,X-C motif chemokine receptor 1	K04193 XCR1; XC chemokine receptor 1,Chemokine,C Chemokine
+hsa:1240,CMKLR1,chemerin chemokine-like receptor 1	K04245 CMKLR1; chemokine-like receptor 1,Chemokine,Chemokine like
+hsa:2825,CMKLR2,chemerin chemokine-like receptor 2	K04310 GPR1; G protein-coupled receptor 1,Chemokine,Chemokine like
+hsa:2838,GPR15,G protein-coupled receptor 15	K08403 GPR15; G protein-coupled receptor 15,Chemokine,Chemokine like
+hsa:2854,GPR32,G protein-coupled receptor 32	K08381 GPR32; G protein-coupled receptor 32,Chemokine,Chemokine like
+hsa:2856,GPR33,G protein-coupled receptor 33	K08382 GPR33; G protein-coupled receptor 33,Chemokine,Chemokine like
+hsa:5028,P2RY1,purinergic receptor P2Y1	K04270 P2RY1; P2Y purinoceptor 1,Base and nucleoside,Purine / pyrimidine
+hsa:5029,P2RY2,purinergic receptor P2Y2	K04269 P2RY2; P2Y purinoceptor 2,Base and nucleoside,Purine / pyrimidine
+hsa:5030,P2RY4,pyrimidinergic receptor P2Y4	K04271 P2RY4; P2Y purinoceptor 4,Base and nucleoside,Purine / pyrimidine
+hsa:5031,P2RY6,pyrimidinergic receptor P2Y6	K04272 P2RY6; P2Y purinoceptor 6,Base and nucleoside,Purine / pyrimidine
+hsa:286530,P2RY8,P2Y receptor family member 8	K08386 P2RY8; P2Y purinoceptor 8,Base and nucleoside,Purine / pyrimidine
+hsa:5032,P2RY11,purinergic receptor P2Y11	K08387 P2RY11; P2Y purinoceptor 11,Base and nucleoside,Purine / pyrimidine
+hsa:64805,P2RY12,purinergic receptor P2Y12	K04298 P2RY12; P2Y purinoceptor 12,Base and nucleoside,Purine / pyrimidine
+hsa:53829,P2RY13,purinergic receptor P2Y13	K08388 P2RY13; P2Y purinoceptor 13,Base and nucleoside,Purine / pyrimidine
+hsa:9934,P2RY14,purinergic receptor P2Y14	K04299 P2RY14; P2Y purinoceptor 14,Base and nucleoside,Purine / pyrimidine
+hsa:56670,SUCNR1,succinate receptor 1	K10042 SUCNR1; succinate receptor 1,Base and nucleoside,Purine / pyrimidine
+hsa:134,ADORA1,adenosine A1 receptor	K04265 ADORA1; adenosine receptor A1,Base and nucleoside,Adenosine
+hsa:135,ADORA2A,adenosine A2a receptor	K04266 ADORA2A; adenosine receptor A2a,Base and nucleoside,Adenosine
+hsa:136,ADORA2B,adenosine A2b receptor	K04267 ADORA2B; adenosine receptor A2b,Base and nucleoside,Adenosine
+hsa:140,ADORA3,adenosine A3 receptor	K04268 ADORA3; adenosine receptor A3,Base and nucleoside,Adenosine
+hsa:2841,GPR18,G protein-coupled receptor 18	K08410 GPR18; N-arachidonyl glycine receptor,Lipid,Arachidonylglycine
+hsa:151306,GPBAR1,G protein-coupled bile acid receptor 1	K08400 GPBAR1; G protein-coupled bile acid receptor 1,Lipid,Bile acid
+hsa:10800,CYSLTR1,cysteinyl leukotriene receptor 1	K04322 CYSLTR1; cysteinyl leukotriene receptor 1,Lipid,Cysteinyl leukotriene
+hsa:57105,CYSLTR2,cysteinyl leukotriene receptor 2	K04323 CYSLTR2; cysteinyl leukotriene receptor 2,Lipid,Cysteinyl leukotriene
+hsa:2864,FFAR1,free fatty acid receptor 1	K04325 FFAR1; free fatty acid receptor 1,Lipid,Free fatty acid
+hsa:2867,FFAR2,free fatty acid receptor 2	K04328 FFAR2; free fatty acid receptor 2,Lipid,Free fatty acid
+hsa:2865,FFAR3,free fatty acid receptor 3	K04326 FFAR3; free fatty acid receptor 3,Lipid,Free fatty acid
+hsa:2866,GPR42,G protein-coupled receptor 42	K04326 FFAR3; free fatty acid receptor 3,Lipid,Free fatty acid
+hsa:338557,FFAR4,free fatty acid receptor 4	K08425 FFAR4; free fatty acid receptor 4,Lipid,Free fatty acid
+hsa:53831,GPR84,G protein-coupled receptor 84	K08421 GPR84; G protein-coupled receptor 84,Lipid,Free fatty acid
+hsa:165140,OXER1,oxoeicosanoid receptor 1	K10043 OXER1; oxoeicosanoid receptor 1,Lipid,HETE and oxoETE
+hsa:2853,GPR31,"G protein-coupled receptor 31	K08406 GPR31; 12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor",Lipid,HETE and oxoETE
+hsa:1241,LTB4R,leukotriene B4 receptor	K04296 LTB4R1; leukotriene B4 receptor 1,Lipid,Leukotriene
+hsa:56413,LTB4R2,leukotriene B4 receptor 2	K04297 LTB4R2; leukotriene B4 receptor 2,Lipid,Leukotriene
+hsa:1902,LPAR1,lysophosphatidic acid receptor 1	K04289 LPAR1; lysophosphatidic acid receptor 1,Lipid,Lysophosphatidic acid
+hsa:9170,LPAR2,lysophosphatidic acid receptor 2	K04291 LPAR2; lysophosphatidic acid receptor 2,Lipid,Lysophosphatidic acid
+hsa:23566,LPAR3,lysophosphatidic acid receptor 3	K04294 LPAR3; lysophosphatidic acid receptor 3,Lipid,Lysophosphatidic acid
+hsa:2846,LPAR4,lysophosphatidic acid receptor 4	K04275 LPAR4; lysophosphatidic acid receptor 4,Lipid,Lysophosphatidic acid
+hsa:57121,LPAR5,lysophosphatidic acid receptor 5	K08390 LPAR5; lysophosphatidic acid receptor 5,Lipid,Lysophosphatidic acid
+hsa:10161,LPAR6,lysophosphatidic acid receptor 6	K04273 LPAR6; lysophosphatidic acid receptor 6,Lipid,Lysophosphatidic acid
+hsa:53836,GPR87,G protein-coupled receptor 87	K08389 GPR87; G protein-coupled receptor 87,Lipid,Lysophosphatidic acid
+hsa:9290,GPR55,G protein-coupled receptor 55	K08413 GPR55; G protein-coupled receptor 55,Lipid,Lysophosphatidylinositol
+hsa:2857,GPR34,G protein-coupled receptor 34	K08383 GPR34; G protein-coupled receptor 34,Lipid,Lysophosphatidylserine
+hsa:27334,P2RY10,P2Y receptor family member 10	K04274 P2RY10; P2Y purinoceptor 10,Lipid,Lysophosphatidylserine
+hsa:84636,GPR174,G protein-coupled receptor 174	K08391 GPR174; G protein-coupled receptor 174,Lipid,Lysophosphatidylserine
+hsa:139760,GPR119,G protein-coupled receptor 119	K08424 GPR119; glucose-dependent insulinotropic receptor,Lipid,Oleoylethanolamide
+hsa:5729,PTGDR,prostaglandin D2 receptor	K04332 PTGDR; prostaglandin D2 receptor,Lipid,Prostaglandin
+hsa:11251,PTGDR2,prostaglandin D2 receptor 2	K06715 PTGDR2; prostaglandin D2 receptor 2,Lipid,Prostaglandin
+hsa:5731,PTGER1,prostaglandin E receptor 1	K04258 PTGER1; prostaglandin E receptor 1,Lipid,Prostaglandin
+hsa:5732,PTGER2,prostaglandin E receptor 2	K04259 PTGER2; prostaglandin E receptor 2,Lipid,Prostaglandin
+hsa:5733,PTGER3,prostaglandin E receptor 3	K04260 PTGER3; prostaglandin E receptor 3,Lipid,Prostaglandin
+hsa:5734,PTGER4,prostaglandin E receptor 4	K04261 PTGER4; prostaglandin E receptor 4,Lipid,Prostaglandin
+hsa:5737,PTGFR,prostaglandin F receptor	K04262 PTGFR; prostaglandin F receptor,Lipid,Prostaglandin
+hsa:5739,PTGIR,prostaglandin I2 receptor	K04263 PTGIR; prostacyclin receptor,Lipid,Prostacyclin
+hsa:1901,S1PR1,sphingosine-1-phosphate receptor 1	K04288 S1PR1; sphingosine 1-phosphate receptor 1,Lipid,Sphingolipid
+hsa:9294,S1PR2,sphingosine-1-phosphate receptor 2	K04292 S1PR2; sphingosine 1-phosphate receptor 2,Lipid,Sphingolipid
+hsa:1903,S1PR3,sphingosine-1-phosphate receptor 3	K04290 S1PR3; sphingosine 1-phosphate receptor 3,Lipid,Sphingolipid
+hsa:8698,S1PR4,sphingosine-1-phosphate receptor 4	K04293 S1PR4; sphingosine 1-phosphate receptor 4,Lipid,Sphingolipid
+hsa:53637,S1PR5,sphingosine-1-phosphate receptor 5	K04295 S1PR5; sphingosine 1-phosphate receptor 5,Lipid,Sphingolipid
+hsa:6915,TBXA2R,thromboxane A2 receptor	K04264 TBXA2R; thromboxane A2 receptor,Lipid,Thromboxane
+hsa:6010,RHO,rhodopsin	K04250 RHO; rhodopsin,Vision,Opsin
+hsa:611,OPN1SW,"opsin 1, short wave sensitive	K04252 OPN1SW; short wavelength-sensitive opsin",Vision,Opsin
+hsa:101060233,OPN1MW3,"opsin 1, medium wave sensitive 3	K04251 OPN1LW; long/medium wavelength-sensitive opsin",Vision,Opsin
+hsa:2652,OPN1MW,"opsin 1, medium wave sensitive	K04251 OPN1LW; long/medium wavelength-sensitive opsin",Vision,Opsin
+hsa:5956,OPN1LW,"opsin 1, long wave sensitive	K04251 OPN1LW; long/medium wavelength-sensitive opsin",Vision,Opsin
+hsa:728458,OPN1MW2,"opsin 1, medium wave sensitive 2	K04251 OPN1LW; long/medium wavelength-sensitive opsin",Vision,Opsin
+hsa:23596,OPN3,opsin 3	K04256 OPN3; c-opsin,Vision,Opsin
+hsa:94233,OPN4,opsin 4	K04255 OPN4; r-opsin,Vision,Opsin
+hsa:221391,OPN5,opsin 5	K08385 OPN5; G0-opsin,Vision,Opsin
+hsa:10692,RRH,retinal pigment epithelium-derived rhodopsin homolog	K04253 RRH; visual pigment-like receptor peropsin,Vision,Opsin
+hsa:5995,RGR,retinal G protein coupled receptor	K04254 RGR; retinal G protein coupled receptor,Vision,Opsin
+hsa:27199,OXGR1,oxoglutarate receptor 1	K08419 OXGR1; oxoglutarate (alpha-ketoglutarate) receptor 1,Others,Alpha-ketoglutarate
+hsa:1268,CNR1,cannabinoid receptor 1	K04277 CNR1; cannabinoid receptor 1,Others,Cannabinoid
+hsa:1269,CNR2,cannabinoid receptor 2	K04278 CNR2; cannabinoid receptor 2,Others,Cannabinoid
+hsa:2852,GPER1,G protein-coupled estrogen receptor 1	K04246 GPER1; G-protein coupled estrogen receptor 1,Others,Estrogen
+hsa:27198,HCAR1,hydroxycarboxylic acid receptor 1	K08401 HCAR1; hydroxycarboxylic acid receptor 1,Others,Hydroxy-carboxylic acid
+hsa:338442,HCAR2,hydroxycarboxylic acid receptor 2	K08402 HCAR2_3; hydroxycarboxylic acid receptor 2/3,Others,Hydroxy-carboxylic acid
+hsa:8843,HCAR3,hydroxycarboxylic acid receptor 3	K08402 HCAR2_3; hydroxycarboxylic acid receptor 2/3,Others,Hydroxy-carboxylic acid
+hsa:124274,GPR139,G protein-coupled receptor 139	K08428 GPR139; G protein-coupled receptor 139,Others,L-Tryptophan and L-Phenylalanine
+hsa:350383,GPR142,G protein-coupled receptor 142	K08430 GPR142; G protein-coupled receptor 142,Others,L-Tryptophan and L-Phenylalanine
+hsa:4142,MAS1,"MAS1 proto-oncogene, G protein-coupled receptor	K04303 MAS1; proto-oncogene Mas",Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:116511,MAS1L,"MAS1 proto-oncogene like, G protein-coupled receptor	K04324 MAS1L; Mas-related G-protein coupled receptor MRG",Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:116512,MRGPRD,MAS related GPR family member D	K08392 MRGPRD; Mas-related G protein-coupled receptor member D,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:116534,MRGPRE,MAS related GPR family member E	K08393 MRGPRE; Mas-related G protein-coupled receptor member E,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:116535,MRGPRF,MAS related GPR family member F	K08394 MRGPRF; Mas-related G protein-coupled receptor member F,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:386746,MRGPRG,MAS related GPR family member G	K08395 MRGPRG; Mas-related G protein-coupled receptor member G,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:117194,MRGPRX2,MAS related GPR family member X2	K08396 MRGPRX; Mas-related G protein-coupled receptor member X,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:117195,MRGPRX3,MAS related GPR family member X3	K08396 MRGPRX; Mas-related G protein-coupled receptor member X,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:117196,MRGPRX4,MAS related GPR family member X4	K08396 MRGPRX; Mas-related G protein-coupled receptor member X,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:124906949,mas-related G-protein coupled receptor member X1	K08396 MRGPRX,Mas-related G protein-coupled receptor member X,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:259249,MRGPRX1,MAS related GPR family member X1	K08396 MRGPRX; Mas-related G protein-coupled receptor member X,Others,Mas proto-oncogene and Mas-related (MRGs)
+hsa:4543,MTNR1A,melatonin receptor 1A	K04285 MTNR1A; melatonin receptor type 1A,Others,Melatonin
+hsa:4544,MTNR1B,melatonin receptor 1B	K04286 MTNR1B; melatonin receptor type 1B,Others,Melatonin
+hsa:1880,GPR183,G protein-coupled receptor 183	K04305 EBI2; Epstein-Barr virus induced gene 2,Others,Oxysterol
+hsa:5724,PTAFR,platelet activating factor receptor	K04279 PTAFR; platelet-activating factor receptor,Others,Platelet activating factor
+hsa:2828,GPR4,G protein-coupled receptor 4	K04312 GPR4; G protein-coupled receptor 4,Others,Proton-sensing GPCRs
+hsa:8477,GPR65,G protein-coupled receptor 65	K08416 GPR65; psychosine receptor,Others,Proton-sensing GPCRs
+hsa:8111,GPR68,G protein-coupled receptor 68	K08408 GPR68; ovarian cancer G-protein coupled receptor 1,Others,Proton-sensing GPCRs
+hsa:29933,GPR132,G protein-coupled receptor 132	K08426 GPR132; G protein-coupled receptor 132,Others,Proton-sensing GPCRs
+hsa:55366,LGR4,leucine rich repeat containing G protein-coupled receptor 4	K04309 LGR4; leucine-rich repeat-containing G protein-coupled receptor 4,Others,R-spondin
+hsa:8549,LGR5,leucine rich repeat containing G protein-coupled receptor 5	K04308 LGR5; leucine-rich repeat-containing G protein-coupled receptor 5,Others,R-spondin
+hsa:59352,LGR6,leucine rich repeat containing G protein-coupled receptor 6	K08399 LGR6; leucine-rich repeat-containing G protein-coupled receptor 6,Others,R-spondin
+hsa:2850,GPR27,G protein-coupled receptor 27	K04301 SREB1; super conserved receptor expressed in brain 1,Others,Super conserved receptor expressed in brain (SREB)
+hsa:54329,GPR85,G protein-coupled receptor 85	K04302 SREB2; super conserved receptor expressed in brain 2,Others,Super conserved receptor expressed in brain (SREB)
+hsa:54328,GPR173,G protein-coupled receptor 173	K04300 SREB3; super conserved receptor expressed in brain 3,Others,Super conserved receptor expressed in brain (SREB)
+hsa:2827,GPR3,G protein-coupled receptor 3	K04311 GPR3; G protein-coupled receptor 3,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2830,GPR6,G protein-coupled receptor 6	K04313 GPR6; G protein-coupled receptor 6,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2835,GPR12,G protein-coupled receptor 12	K04315 GPR12; G protein-coupled receptor 12,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2840,GPR17,G protein-coupled receptor 17	K08404 GPR17; G protein-coupled receptor 17,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2843,GPR20,G protein-coupled receptor 20	K04317 GPR20; G protein-coupled receptor 20,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2844,GPR21,G protein-coupled receptor 21	K04318 GPR21; G protein-coupled receptor 21,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2845,GPR22,G protein-coupled receptor 22	K04319 GPR22; G protein-coupled receptor 22,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2848,GPR25,G protein-coupled receptor 25	K08405 GPR25; G protein-coupled receptor 25,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2849,GPR26,G protein-coupled receptor 26	K08411 GPR26; G protein-coupled receptor 26,Others,Orphan GPCRs / unclassified GPCRs
+hsa:2863,GPR39,G protein-coupled receptor 39	K08412 GPR39; G protein-coupled receptor 39,Others,Orphan GPCRs / unclassified GPCRs
+hsa:11250,GPR45,G protein-coupled receptor 45	K08409 GPR45; G protein-coupled receptor 45,Others,Orphan GPCRs / unclassified GPCRs
+hsa:9248,GPR50,G protein-coupled receptor 50	K04287 GPR50; G protein-coupled receptor 50,Others,Orphan GPCRs / unclassified GPCRs
+hsa:9293,GPR52,G protein-coupled receptor 52	K08407 GPR52; G protein-coupled receptor 52,Others,Orphan GPCRs / unclassified GPCRs
+hsa:83873,GPR61,G protein-coupled receptor 61	K08414 GPR61; G protein-coupled receptor 61,Others,Orphan GPCRs / unclassified GPCRs
+hsa:118442,GPR62,G protein-coupled receptor 62	K08415 GPR62; G protein-coupled receptor 62,Others,Orphan GPCRs / unclassified GPCRs
+hsa:81491,GPR63,G protein-coupled receptor 63	K04321 GPR63; G protein-coupled receptor 63,Others,Orphan GPCRs / unclassified GPCRs
+hsa:27201,GPR78,G protein-coupled receptor 78	K08418 GPR78; G protein-coupled receptor 78,Others,Orphan GPCRs / unclassified GPCRs
+hsa:27197,GPR82,G protein-coupled receptor 82	K08420 GPR82; G protein-coupled receptor 82,Others,Orphan GPCRs / unclassified GPCRs
+hsa:54112,GPR88,G protein-coupled receptor 88	K08422 GPR88; G protein-coupled receptor 88,Others,Orphan GPCRs / unclassified GPCRs
+hsa:83550,GPR101,G protein-coupled receptor 101	K08423 GPR101; G protein-coupled receptor 101,Others,Orphan GPCRs / unclassified GPCRs
+hsa:64582,GPR135,G protein-coupled receptor 135	K08427 GPR135; G protein-coupled receptor 135,Others,Orphan GPCRs / unclassified GPCRs
+hsa:353345,GPR141,G protein-coupled receptor 141	K08429 GPR141; G protein-coupled receptor 141,Others,Orphan GPCRs / unclassified GPCRs
+hsa:115330,GPR146,G protein-coupled receptor 146	K08431 GPR146; G protein-coupled receptor 146,Others,Orphan GPCRs / unclassified GPCRs
+hsa:344561,GPR148,G protein-coupled receptor 148	K08432 GPR148; G protein-coupled receptor 148,Others,Orphan GPCRs / unclassified GPCRs
+hsa:344758,GPR149,G protein-coupled receptor 149	K08433 GPR149; G protein-coupled receptor 149,Others,Orphan GPCRs / unclassified GPCRs
+hsa:285601,GPR150,G protein-coupled receptor 150	K08434 GPR150; G protein-coupled receptor 150,Others,Orphan GPCRs / unclassified GPCRs
+hsa:134391,GPR151,G protein-coupled receptor 151	K08435 GPR151; G protein-coupled receptor 151,Others,Orphan GPCRs / unclassified GPCRs
+hsa:390212,GPR152,G protein-coupled receptor 152	K08436 GPR152; G protein-coupled receptor 152,Others,Orphan GPCRs / unclassified GPCRs
+hsa:387509,GPR153,G protein-coupled receptor 153	K08437 GPR153; G protein-coupled receptor 153,Others,Orphan GPCRs / unclassified GPCRs
+hsa:26996,GPR160,G protein-coupled receptor 160	K08438 GPR160; G protein-coupled receptor 160,Others,Orphan GPCRs / unclassified GPCRs
+hsa:23432,GPR161,G protein-coupled receptor 161	K08439 GPR161; G protein-coupled receptor 161,Others,Orphan GPCRs / unclassified GPCRs
+hsa:27239,GPR162,G protein-coupled receptor 162	K08440 GPR162; G protein-coupled receptor 162,Others,Orphan GPCRs / unclassified GPCRs
+hsa:11245,GPR176,G protein-coupled receptor 176	K08442 GPR176; G protein-coupled receptor 176,Others,Orphan GPCRs / unclassified GPCRs
+hsa:799,CALCR,calcitonin receptor	K04576 CALCR; calcitonin receptor,Calcium-regulating peptide,Calcitonin
+hsa:10203,CALCRL,calcitonin receptor like receptor	K04577 CALCRL; calcitonin receptor-like,Calcium-regulating peptide,Calcitonin
+hsa:5745,PTH1R,parathyroid hormone 1 receptor	K04585 PTH1R; parathyroid hormone receptor 1,Calcium-regulating peptide,Parathyroid hormone
+hsa:5746,PTH2R,parathyroid hormone 2 receptor	K04586 PTHR2; parathyroid hormone receptor 2,Calcium-regulating peptide,Parathyroid hormone
+hsa:1394,CRHR1,corticotropin releasing hormone receptor 1	K04578 CRHR1; corticotropin releasing hormone receptor 1,Hypothalamic hormone,Corticotropin-releasing hormone (CRH)
+hsa:1395,CRHR2,corticotropin releasing hormone receptor 2	K04579 CRHR2; corticotropin releasing hormone receptor 2,Hypothalamic hormone,Corticotropin-releasing hormone (CRH)
+hsa:2692,GHRHR,growth hormone releasing hormone receptor	K04584 GHRHR; growth hormone releasing hormone receptor,Hypothalamic hormone,Growth hormone-releasing hormone (GHRH)
+hsa:2740,GLP1R,glucagon like peptide 1 receptor	K04581 GLP1R; glucagon-like peptide 1 receptor,Pancreatic peptide,Glucagon
+hsa:9340,GLP2R,glucagon like peptide 2 receptor	K04582 GLP2R; glucagon-like peptide 2 receptor,Pancreatic peptide,Glucagon
+hsa:2642,GCGR,glucagon receptor	K04583 GCGR; glucagon receptor,Pancreatic peptide,Glucagon
+hsa:2696,GIPR,gastric inhibitory polypeptide receptor	K04580 GIPR; gastric inhibitory polypeptide receptor,Gut peptide,Gastric inhibitory peptide (GIP)
+hsa:7433,VIPR1,vasoactive intestinal peptide receptor 1	K04589 VIPR1; vasoactive intestinal peptide receptor 1,Gut peptide,Vasoactive intestinal polypeptide (VIP) and pituitary adenyl cyclase-activating peptide (PACAP)
+hsa:7434,VIPR2,vasoactive intestinal peptide receptor 2	K04590 VIPR2; vasoactive intestinal peptide receptor 2,Gut peptide,Vasoactive intestinal polypeptide (VIP) and pituitary adenyl cyclase-activating peptide (PACAP)
+hsa:117,ADCYAP1R1,ADCYAP receptor type I	K04587 ADCYAP1R1; pituitary adenylate cyclase-activating polypeptide type I receptor,Gut peptide,Vasoactive intestinal polypeptide (VIP) and pituitary adenyl cyclase-activating peptide (PACAP)
+hsa:6344,SCTR,secretin receptor	K04588 SCTR; secretin receptor,Gut peptide,Secretin
+hsa:10267,RAMP1,receptor activity modifying protein 1	K08447 RAMP1; receptor activity modifying protein 1,Others,Receptor activity modifying protein
+hsa:10266,RAMP2,receptor activity modifying protein 2	K08448 RAMP2; receptor activity modifying protein 2,Others,Receptor activity modifying protein
+hsa:10268,RAMP3,receptor activity modifying protein 3	K08449 RAMP3; receptor activity modifying protein 3,Others,Receptor activity modifying protein
+hsa:102723532,olfactory receptor 4N4-like	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:105369274,OR4N4C,olfactory receptor family 4 subfamily N member 4C	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:10798,OR5I1,olfactory receptor family 5 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:107987545,olfactory receptor 2A7	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:112268384,olfactory receptor 2A1/2A42	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:118568804,OR4M2B,olfactory receptor family 4 subfamily M member 2B	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119678,OR52E2,olfactory receptor family 52 subfamily E member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119679,OR52J3,olfactory receptor family 52 subfamily J member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119682,OR51L1,olfactory receptor family 51 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119687,OR51A7,olfactory receptor family 51 subfamily A member 7	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119692,OR51S1,olfactory receptor family 51 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119694,OR51F2,olfactory receptor family 51 subfamily F member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119695,OR52R1,olfactory receptor family 52 subfamily R member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119749,OR4C46,olfactory receptor family 4 subfamily C member 46	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119764,OR4X2,olfactory receptor family 4 subfamily X member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119765,OR4B1,olfactory receptor family 4 subfamily B member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119772,OR52M1,olfactory receptor family 52 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:119774,OR52K2,olfactory receptor family 52 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120065,OR5P2,olfactory receptor family 5 subfamily P member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120066,OR5P3,olfactory receptor family 5 subfamily P member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120586,OR8I2,olfactory receptor family 8 subfamily I member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120775,OR2D3,olfactory receptor family 2 subfamily D member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120776,OR2D2,olfactory receptor family 2 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120787,OR52W1,olfactory receptor family 52 subfamily W member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120793,OR56A4,olfactory receptor family 56 subfamily A member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:120796,OR56A1,olfactory receptor family 56 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:121129,OR2AP1,olfactory receptor family 2 subfamily AP member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:121130,OR10P1,olfactory receptor family 10 subfamily P member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:121275,OR10AD1,olfactory receptor family 10 subfamily AD member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:121364,OR10A7,olfactory receptor family 10 subfamily A member 7	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:122740,OR4K14,olfactory receptor family 4 subfamily K member 14	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:122742,OR4L1,olfactory receptor family 4 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:122748,OR11H6,olfactory receptor family 11 subfamily H member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:124538,OR4D2,olfactory receptor family 4 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:124906796,olfactory receptor 7E24-like	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:124906935,olfactory receptor 4F4	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:125958,OR7D4,olfactory receptor family 7 subfamily D member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:125962,OR7G1,olfactory receptor family 7 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:125963,OR1M1,olfactory receptor family 1 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:126370,OR1I1,olfactory receptor family 1 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:126541,OR10H4,olfactory receptor family 10 subfamily H member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127059,OR2M5,olfactory receptor family 2 subfamily M member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127062,OR2M3,olfactory receptor family 2 subfamily M member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127064,OR2T12,olfactory receptor family 2 subfamily T member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127066,OR14C36,olfactory receptor family 14 subfamily C member 36	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127068,OR2T34,olfactory receptor family 2 subfamily T member 34	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127069,OR2T10,olfactory receptor family 2 subfamily T member 10	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127074,OR2T4,olfactory receptor family 2 subfamily T member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127077,OR2T11,olfactory receptor family 2 subfamily T member 11	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127385,OR10J5,olfactory receptor family 10 subfamily J member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127608,OR2AJ1,olfactory receptor family 2 subfamily AJ member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:127623,OR2B11,olfactory receptor family 2 subfamily B member 11	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128360,OR10T2,olfactory receptor family 10 subfamily T member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128366,OR6P1,olfactory receptor family 6 subfamily P member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128367,OR10X1,olfactory receptor family 10 subfamily X member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128368,OR10Z1,olfactory receptor family 10 subfamily Z member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128371,OR6K6,olfactory receptor family 6 subfamily K member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128372,OR6N1,olfactory receptor family 6 subfamily N member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:128966576,olfactory receptor 4F17	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:128966580,olfactory receptor 2G6	K04257 OLFR,olfactory receptor,Chemoreception,Olfactory
+hsa:130075,OR9A4,olfactory receptor family 9 subfamily A member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:134083,OR2Y1,olfactory receptor family 2 subfamily Y member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:135924,OR9A2,olfactory receptor family 9 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:135941,OR2A14,olfactory receptor family 2 subfamily A member 14	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:135946,OR6B1,olfactory receptor family 6 subfamily B member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:135948,OR2F2,olfactory receptor family 2 subfamily F member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138799,OR13C5,olfactory receptor family 13 subfamily C member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138802,OR13C8,olfactory receptor family 13 subfamily C member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138803,OR13C3,olfactory receptor family 13 subfamily C member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138804,OR13C4,olfactory receptor family 13 subfamily C member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138805,OR13F1,olfactory receptor family 13 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138881,OR1L8,olfactory receptor family 1 subfamily L member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138882,OR1N2,olfactory receptor family 1 subfamily N member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:138883,OR1N1,olfactory receptor family 1 subfamily N member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:143496,OR52B4,olfactory receptor family 52 subfamily B member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:143502,OR52I2,olfactory receptor family 52 subfamily I member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:143503,OR51E1,olfactory receptor family 51 subfamily E member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:144124,OR10A5,olfactory receptor family 10 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:144125,OR2AG1,olfactory receptor family 2 subfamily AG member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:150681,OR6B3,olfactory receptor family 6 subfamily B member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:158131,OR1Q1,olfactory receptor family 1 subfamily Q member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:162998,OR7D2,olfactory receptor family 7 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:196335,OR56B4,olfactory receptor family 56 subfamily B member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219417,OR8U1,olfactory receptor family 8 subfamily U member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219428,OR4C16,olfactory receptor family 4 subfamily C member 16	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219429,OR4C11,olfactory receptor family 4 subfamily C member 11	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219431,OR4S2,olfactory receptor family 4 subfamily S member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219432,OR4C6,olfactory receptor family 4 subfamily C member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219436,OR5D14,olfactory receptor family 5 subfamily D member 14	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219437,OR5L1,olfactory receptor family 5 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219438,OR5D18,olfactory receptor family 5 subfamily D member 18	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219447,OR5AS1,olfactory receptor family 5 subfamily AS member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219453,OR8K5,olfactory receptor family 8 subfamily K member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219464,OR5T2,olfactory receptor family 5 subfamily T member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219469,OR8H1,olfactory receptor family 8 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219473,OR8K3,olfactory receptor family 8 subfamily K member 3 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219477,OR8J1,olfactory receptor family 8 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219479,OR8U3,olfactory receptor family 8 subfamily U member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219482,OR5M3,olfactory receptor family 5 subfamily M member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219484,OR5M8,olfactory receptor family 5 subfamily M member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219487,OR5M11,olfactory receptor family 5 subfamily M member 11	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219493,OR5AR1,olfactory receptor family 5 subfamily AR member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219858,OR8B12,olfactory receptor family 8 subfamily B member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219865,OR8G5,olfactory receptor family 8 subfamily G member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219869,OR10G8,olfactory receptor family 10 subfamily G member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219870,OR10G9,olfactory receptor family 10 subfamily G member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219873,OR10S1,olfactory receptor family 10 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219874,OR6T1,olfactory receptor family 6 subfamily T member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219875,OR4D5,olfactory receptor family 4 subfamily D member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219952,OR6Q1,olfactory receptor family 6 subfamily Q member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219954,OR9I1,olfactory receptor family 9 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219956,OR9Q1,olfactory receptor family 9 subfamily Q member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219957,OR9Q2,olfactory receptor family 9 subfamily Q member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219958,OR1S2,olfactory receptor family 1 subfamily S member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219959,OR1S1,olfactory receptor family 1 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219960,OR10Q1,olfactory receptor family 10 subfamily Q member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219965,OR5B17,olfactory receptor family 5 subfamily B member 17	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219968,OR5B21,olfactory receptor family 5 subfamily B member 21	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219981,OR5A2,olfactory receptor family 5 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219982,OR5A1,olfactory receptor family 5 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219983,OR4D6,olfactory receptor family 4 subfamily D member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:219986,OR4D11,olfactory receptor family 4 subfamily D member 11	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:23538,OR52A1,olfactory receptor family 52 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:254783,OR6C74,olfactory receptor family 6 subfamily C member 74	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:254786,OR6C3,olfactory receptor family 6 subfamily C member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:254879,OR2T6,olfactory receptor family 2 subfamily T member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:254973,OR1L4,olfactory receptor family 1 subfamily L member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:255725,OR52B2,olfactory receptor family 52 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:256144,OR4C3,olfactory receptor family 4 subfamily C member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:256148,OR4S1,olfactory receptor family 4 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:256892,OR51F1,olfactory receptor family 51 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26188,OR1C1,olfactory receptor family 1 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26189,OR1A2,olfactory receptor family 1 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26211,OR2F1,olfactory receptor family 2 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26212,OR2B6,olfactory receptor family 2 subfamily B member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26219,OR1J4,olfactory receptor family 1 subfamily J member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26245,OR2M4,olfactory receptor family 2 subfamily M member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26246,OR2L2,olfactory receptor family 2 subfamily L member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26248,OR2K2,olfactory receptor family 2 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26333,OR7A17,olfactory receptor family 7 subfamily A member 17	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26338,OR5L2,olfactory receptor family 5 subfamily L member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26339,OR5K1,olfactory receptor family 5 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26341,OR5H1,olfactory receptor family 5 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26476,OR10J1,olfactory receptor family 10 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26493,OR8B8,olfactory receptor family 8 subfamily B member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26494,OR8G1,olfactory receptor family 8 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26496,OR10A3,olfactory receptor family 10 subfamily A member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26497,OR10D3,olfactory receptor family 10 subfamily D member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26529,OR12D2,olfactory receptor family 12 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26530,OR12D1,olfactory receptor family 12 subfamily D member 1 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26531,OR11A1,olfactory receptor family 11 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26532,OR10H3,olfactory receptor family 10 subfamily H member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26533,OR10G3,olfactory receptor family 10 subfamily G member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26534,OR10G2,olfactory receptor family 10 subfamily G member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26538,OR10H2,olfactory receptor family 10 subfamily H member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26539,OR10H1,olfactory receptor family 10 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26595,OR8B2,olfactory receptor family 8 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26648,OR7E24,olfactory receptor family 7 subfamily E member 24	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26658,OR7C2,olfactory receptor family 7 subfamily C member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26659,OR7A5,olfactory receptor family 7 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26664,OR7C1,olfactory receptor family 7 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26683,OR4F3,olfactory receptor family 4 subfamily F member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26686,OR4E2,olfactory receptor family 4 subfamily E member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26687,OR4E1,olfactory receptor family 4 subfamily E member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26689,OR4D1,olfactory receptor family 4 subfamily D member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26692,OR2W1,olfactory receptor family 2 subfamily W member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26693,OR2V1,olfactory receptor family 2 subfamily V member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26696,OR2T1,olfactory receptor family 2 subfamily T member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26707,OR2J2,olfactory receptor family 2 subfamily J member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26716,OR2H1,olfactory receptor family 2 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26735,OR1L3,olfactory receptor family 1 subfamily L member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26737,OR1L1,olfactory receptor family 1 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:26740,OR1J2,olfactory receptor family 1 subfamily J member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:282763,OR51B5,olfactory receptor family 51 subfamily B member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:282770,OR10AG1,olfactory receptor family 10 subfamily AG member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:282775,OR5J2,olfactory receptor family 5 subfamily J member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283092,OR4C13,olfactory receptor family 4 subfamily C member 13	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283093,OR4C12,olfactory receptor family 4 subfamily C member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283111,OR51V1,olfactory receptor family 51 subfamily V member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283159,OR8D1,olfactory receptor family 8 subfamily D member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283160,OR8D2,olfactory receptor family 8 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283162,OR8B4,olfactory receptor family 8 subfamily B member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283189,OR9G4,olfactory receptor family 9 subfamily G member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283297,OR10A4,olfactory receptor family 10 subfamily A member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283365,OR6C6,olfactory receptor family 6 subfamily C member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283617,OR4K3,olfactory receptor family 4 subfamily K member 3 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:283694,OR4N4,olfactory receptor family 4 subfamily N member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:284383,OR2Z1,olfactory receptor family 2 subfamily Z member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:284433,OR10H5,olfactory receptor family 10 subfamily H member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:284521,OR2L13,olfactory receptor family 2 subfamily L member 13	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:284532,OR14A16,olfactory receptor family 14 subfamily A member 16	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:285659,OR2V2,olfactory receptor family 2 subfamily V member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:286362,OR13C9,olfactory receptor family 13 subfamily C member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:286365,OR13D1,olfactory receptor family 13 subfamily D member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:338662,OR8D4,olfactory receptor family 8 subfamily D member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:338674,OR5F1,olfactory receptor family 5 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:338675,OR5AP2,olfactory receptor family 5 subfamily AP member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:338751,OR52L1,olfactory receptor family 52 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:338755,OR2AG2,olfactory receptor family 2 subfamily AG member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:340980,OR52B6,olfactory receptor family 52 subfamily B member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341152,OR2AT4,olfactory receptor family 2 subfamily AT member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341276,OR10A2,olfactory receptor family 10 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341416,OR6C2,olfactory receptor family 6 subfamily C member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341418,OR6C4,olfactory receptor family 6 subfamily C member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341568,OR8S1,olfactory receptor family 8 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:341799,OR6S1,olfactory receptor family 6 subfamily S member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343169,OR6F1,olfactory receptor family 6 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343170,OR14K1,olfactory receptor family 14 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343171,OR2W3,olfactory receptor family 2 subfamily W member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343172,OR2T8,olfactory receptor family 2 subfamily T member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343173,OR2T3,olfactory receptor family 2 subfamily T member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343406,OR10R2,olfactory receptor family 10 subfamily R member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:343563,OR2T29,olfactory receptor family 2 subfamily T member 29	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:346517,OR6V1,olfactory receptor family 6 subfamily V member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:346525,OR2A12,olfactory receptor family 2 subfamily A member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:346528,OR2A1,olfactory receptor family 2 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:347168,OR1J1,olfactory receptor family 1 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:347169,OR1B1,olfactory receptor family 1 subfamily B member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:347468,OR13H1,olfactory receptor family 13 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:387748,OR56B1,olfactory receptor family 56 subfamily B member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:387815,OR8G3,olfactory receptor family 8 subfamily G member 3 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:388761,OR14A2,olfactory receptor family 14 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:389090,OR6B2,olfactory receptor family 6 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390036,OR52K1,olfactory receptor family 52 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390037,OR52I1,olfactory receptor family 52 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390038,OR51D1,olfactory receptor family 51 subfamily D member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390054,OR52A5,olfactory receptor family 52 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390058,OR51B6,olfactory receptor family 51 subfamily B member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390059,OR51M1,olfactory receptor family 51 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390061,OR51Q1,olfactory receptor family 51 subfamily Q member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390063,OR51I1,olfactory receptor family 51 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390064,OR51I2,olfactory receptor family 51 subfamily I member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390066,OR52D1,olfactory receptor family 52 subfamily D member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390067,OR52H1,olfactory receptor family 52 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390072,OR52N4,olfactory receptor family 52 subfamily N member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390073,OR56B2,olfactory receptor family 56 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390075,OR52N5,olfactory receptor family 52 subfamily N member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390077,OR52N2,olfactory receptor family 52 subfamily N member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390078,OR52E6,olfactory receptor family 52 subfamily E member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390079,OR52E8,olfactory receptor family 52 subfamily E member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390081,OR52E4,olfactory receptor family 52 subfamily E member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390082,OR52E5,olfactory receptor family 52 subfamily E member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390083,OR56A3,olfactory receptor family 56 subfamily A member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390084,OR56A5,olfactory receptor family 56 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390093,OR10A6,olfactory receptor family 10 subfamily A member 6 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390113,OR4X1,olfactory receptor family 4 subfamily X member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390142,OR5D13,olfactory receptor family 5 subfamily D member 13	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390144,OR5D16,olfactory receptor family 5 subfamily D member 16	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390148,OR5W2,olfactory receptor family 5 subfamily W member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390151,OR8H2,olfactory receptor family 8 subfamily H member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390152,OR8H3,olfactory receptor family 8 subfamily H member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390154,OR5T3,olfactory receptor family 5 subfamily T member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390155,OR5T1,olfactory receptor family 5 subfamily T member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390157,OR8K1,olfactory receptor family 8 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390162,OR5M9,olfactory receptor family 5 subfamily M member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390167,OR5M10,olfactory receptor family 5 subfamily M member 10	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390168,OR5M1,olfactory receptor family 5 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390174,OR9G1,olfactory receptor family 9 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390181,OR5AK2,olfactory receptor family 5 subfamily AK member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390190,OR5B2,olfactory receptor family 5 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390191,OR5B12,olfactory receptor family 5 subfamily B member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390195,OR5AN1,olfactory receptor family 5 subfamily AN member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390197,OR4D10,olfactory receptor family 4 subfamily D member 10	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390199,OR4D9,olfactory receptor family 4 subfamily D member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390201,OR10V1,olfactory receptor family 10 subfamily V member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390260,OR6X1,olfactory receptor family 6 subfamily X member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390261,OR6M1,olfactory receptor family 6 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390264,OR10G4,olfactory receptor family 10 subfamily G member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390265,OR10G7,olfactory receptor family 10 subfamily G member 7	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390271,OR8B3,olfactory receptor family 8 subfamily B member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390275,OR8A1,olfactory receptor family 8 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390313,OR5BS1,olfactory receptor family 5 subfamily BS member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390321,OR6C1,olfactory receptor family 6 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390323,OR6C75,olfactory receptor family 6 subfamily C member 75	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390326,OR6C76,olfactory receptor family 6 subfamily C member 76	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390327,OR6C70,olfactory receptor family 6 subfamily C member 70	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390429,OR4N2,olfactory receptor family 4 subfamily N member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390431,OR4K2,olfactory receptor family 4 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390432,OR4Q2,olfactory receptor family 4 subfamily Q member 2 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390433,OR4K13,olfactory receptor family 4 subfamily K member 13	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390436,OR4K17,olfactory receptor family 4 subfamily K member 17	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390437,OR4N5,olfactory receptor family 4 subfamily N member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390439,OR11G2,olfactory receptor family 11 subfamily G member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390441,OR11H7,olfactory receptor family 11 subfamily H member 7 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390442,OR11H4,olfactory receptor family 11 subfamily H member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390445,OR5AU1,olfactory receptor family 5 subfamily AU member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390538,OR4M2,olfactory receptor family 4 subfamily M member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390648,OR4F6,olfactory receptor family 4 subfamily F member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390649,OR4F15,olfactory receptor family 4 subfamily F member 15	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390882,OR7G2,olfactory receptor family 7 subfamily G member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390883,OR7G3,olfactory receptor family 7 subfamily G member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:390892,OR7A10,olfactory receptor family 7 subfamily A member 10	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391107,OR10K2,olfactory receptor family 10 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391109,OR10K1,olfactory receptor family 10 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391112,OR6Y1,olfactory receptor family 6 subfamily Y member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391114,OR6K3,olfactory receptor family 6 subfamily K member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391121,OR10J4,olfactory receptor family 10 subfamily J member 4 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391189,OR11L1,olfactory receptor family 11 subfamily L member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391190,OR2L8,olfactory receptor family 2 subfamily L member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391191,OR2AK2,olfactory receptor family 2 subfamily AK member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391192,OR2L3,olfactory receptor family 2 subfamily L member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391194,OR2M2,olfactory receptor family 2 subfamily M member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391195,OR2T33,olfactory receptor family 2 subfamily T member 33	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391196,OR2M7,olfactory receptor family 2 subfamily M member 7	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:391211,OR2G6,olfactory receptor family 2 subfamily G member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392133,OR10AC1,olfactory receptor family 10 subfamily AC member 1 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392138,OR2A25,olfactory receptor family 2 subfamily A member 25	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392309,OR13J1,olfactory receptor family 13 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392376,OR13C2,olfactory receptor family 13 subfamily C member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392390,OR1L6,olfactory receptor family 1 subfamily L member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392391,OR5C1,olfactory receptor family 5 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:392392,OR1K1,olfactory receptor family 1 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:393046,OR2A5,olfactory receptor family 2 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401427,OR2A7,olfactory receptor family 2 subfamily A member 7	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401661,OR51C1,olfactory receptor family 51 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401665,OR51T1,olfactory receptor family 51 subfamily T member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401666,OR51A4,olfactory receptor family 51 subfamily A member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401667,OR51A2,olfactory receptor family 51 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401992,OR2T2,olfactory receptor family 2 subfamily T member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401993,OR2T5,olfactory receptor family 2 subfamily T member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:401994,OR14I1,olfactory receptor family 14 subfamily I member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:402135,OR5K2,olfactory receptor family 5 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:402317,OR2A42,olfactory receptor family 2 subfamily A member 42	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403239,OR2T27,olfactory receptor family 2 subfamily T member 27	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403244,OR2T35,olfactory receptor family 2 subfamily T member 35 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403253,OR4A47,olfactory receptor family 4 subfamily A member 47	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403257,OR4C45,olfactory receptor family 4 subfamily C member 45 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403273,OR5H14,olfactory receptor family 5 subfamily H member 14	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403274,OR5H15,olfactory receptor family 5 subfamily H member 15	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403277,OR5K3,olfactory receptor family 5 subfamily K member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403278,OR5K4,olfactory receptor family 5 subfamily K member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403282,OR6C65,olfactory receptor family 6 subfamily C member 65	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:403284,OR6C68,olfactory receptor family 6 subfamily C member 68	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:440153,OR11H12,olfactory receptor family 11 subfamily H member 12	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441308,OR4F21,olfactory receptor family 4 subfamily F member 21	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441608,OR5B3,olfactory receptor family 5 subfamily B member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441639,OR9K2,olfactory receptor family 9 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441669,OR4Q3,olfactory receptor family 4 subfamily Q member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441670,OR4M1,olfactory receptor family 4 subfamily M member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:441933,OR13G1,olfactory receptor family 13 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442184,OR2B3,olfactory receptor family 2 subfamily B member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442185,OR2J1,olfactory receptor family 2 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442186,OR2J3,olfactory receptor family 2 subfamily J member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442191,OR14J1,olfactory receptor family 14 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442194,OR10C1,olfactory receptor family 10 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:442361,OR2A2,olfactory receptor family 2 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:4991,OR1D2,olfactory receptor family 1 subfamily D member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:4992,OR1F1,olfactory receptor family 1 subfamily F member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:4993,OR2C1,olfactory receptor family 2 subfamily C member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:4994,OR3A1,olfactory receptor family 3 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:4995,OR3A2,olfactory receptor family 3 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:504189,OR8U8,olfactory receptor family 8 subfamily U member 8	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:504190,OR8U9,olfactory receptor family 8 subfamily U member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:504191,OR9G9,olfactory receptor family 9 subfamily G member 9	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:56656,OR2S2,olfactory receptor family 2 subfamily S member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:653166,OR1D4,olfactory receptor family 1 subfamily D member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:65944,OR2B8,olfactory receptor family 2 subfamily B member 8 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:729759,OR4F29,olfactory receptor family 4 subfamily F member 29	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79290,OR13A1,olfactory receptor family 13 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79295,OR5H6,olfactory receptor family 5 subfamily H member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79296,OR52E1,olfactory receptor family 52 subfamily E member 1 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79310,OR5H2,olfactory receptor family 5 subfamily H member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79317,OR4K5,olfactory receptor family 4 subfamily K member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:7932,OR2H2,olfactory receptor family 2 subfamily H member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79324,OR51G1,olfactory receptor family 51 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79334,OR11H2,olfactory receptor family 11 subfamily H member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79339,OR51B4,olfactory receptor family 51 subfamily B member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79345,OR51B2,olfactory receptor family 51 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79346,OR4C5,olfactory receptor family 4 subfamily C member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79473,OR52N1,olfactory receptor family 52 subfamily N member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79482,OR5AL1,olfactory receptor family 5 subfamily AL member 1 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79490,OR10G6,olfactory receptor family 10 subfamily G member 6	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79501,OR4F5,olfactory receptor family 4 subfamily F member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79541,OR2A4,olfactory receptor family 2 subfamily A member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79544,OR4K1,olfactory receptor family 4 subfamily K member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:79549,OR6J1,olfactory receptor family 6 subfamily J member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81050,OR5AC2,olfactory receptor family 5 subfamily AC member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81061,OR11H1,olfactory receptor family 11 subfamily H member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81099,OR4F17,olfactory receptor family 4 subfamily F member 17	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81127,OR4K15,olfactory receptor family 4 subfamily K member 15	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81168,OR8J3,olfactory receptor family 8 subfamily J member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81169,OR8J2,olfactory receptor family 8 subfamily J member 2 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81248,OR52P1,olfactory receptor family 52 subfamily P member 1 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81282,OR51G2,olfactory receptor family 51 subfamily G member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81285,OR51E2,olfactory receptor family 51 subfamily E member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81300,OR4P4,olfactory receptor family 4 subfamily P member 4	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81309,OR4C15,olfactory receptor family 4 subfamily C member 15	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81318,OR4A5,olfactory receptor family 4 subfamily A member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81327,OR4A16,olfactory receptor family 4 subfamily A member 16	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81328,OR4A15,olfactory receptor family 4 subfamily A member 15	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81341,OR10W1,olfactory receptor family 10 subfamily W member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81392,OR2AE1,olfactory receptor family 2 subfamily AE member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81399,OR4F16,olfactory receptor family 4 subfamily F member 16	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81439,OR9H1,olfactory receptor family 9 subfamily H member 1 pseudogene (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81442,OR6N2,olfactory receptor family 6 subfamily N member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81448,OR6K2,olfactory receptor family 6 subfamily K member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81458,OR2T7,olfactory receptor family 2 subfamily T member 7 (gene/pseudogene)	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81466,OR2L5,olfactory receptor family 2 subfamily L member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81469,OR2G3,olfactory receptor family 2 subfamily G member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81470,OR2G2,olfactory receptor family 2 subfamily G member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81472,OR2C3,olfactory receptor family 2 subfamily C member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81696,OR5V1,olfactory receptor family 5 subfamily V member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81697,OR2B2,olfactory receptor family 2 subfamily B member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:81797,OR12D3,olfactory receptor family 12 subfamily D member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8383,OR1A1,olfactory receptor family 1 subfamily A member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8386,OR1D5,olfactory receptor family 1 subfamily D member 5	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8387,OR1E1,olfactory receptor family 1 subfamily E member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8388,OR1E2,olfactory receptor family 1 subfamily E member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8390,OR1G1,olfactory receptor family 1 subfamily G member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8392,OR3A3,olfactory receptor family 3 subfamily A member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8590,OR6A2,olfactory receptor family 6 subfamily A member 2	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:8594,OR5D3,olfactory receptor family 5 subfamily D member 3	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:9596,OR1R1,olfactory receptor family 1 subfamily R member 1	K04257 OLFR; olfactory receptor,Chemoreception,Olfactory
+hsa:80835,TAS1R1,taste 1 receptor member 1	K04624 TAS1R1; taste receptor type 1 member 1,Chemoreception,Taste
+hsa:80834,TAS1R2,taste 1 receptor member 2	K04625 TAS1R2; taste receptor type 1 member 2,Chemoreception,Taste
+hsa:83756,TAS1R3,taste 1 receptor member 3	K04626 TAS1R3; taste receptor type 1 member 3,Chemoreception,Taste
+hsa:259285,TAS2R39,taste 2 receptor member 39	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259286,TAS2R40,taste 2 receptor member 40	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259287,TAS2R41,taste 2 receptor member 41	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259289,TAS2R43,taste 2 receptor member 43	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259290,TAS2R31,taste 2 receptor member 31	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259291,TAS2R45,taste 2 receptor member 45	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259292,TAS2R46,taste 2 receptor member 46	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259293,TAS2R30,taste 2 receptor member 30	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259294,TAS2R19,taste 2 receptor member 19	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259295,TAS2R20,taste 2 receptor member 20	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:259296,TAS2R50,taste 2 receptor member 50	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:338398,TAS2R60,taste 2 receptor member 60	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:353164,TAS2R42,taste 2 receptor member 42	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50831,TAS2R3,taste 2 receptor member 3	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50832,TAS2R4,taste 2 receptor member 4	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50833,TAS2R16,taste 2 receptor member 16	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50834,TAS2R1,taste 2 receptor member 1	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50835,TAS2R9,taste 2 receptor member 9	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50836,TAS2R8,taste 2 receptor member 8	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50837,TAS2R7,taste 2 receptor member 7	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50838,TAS2R13,taste 2 receptor member 13	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50839,TAS2R10,taste 2 receptor member 10	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:50840,TAS2R14,taste 2 receptor member 14	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:54429,TAS2R5,taste 2 receptor member 5	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:5726,TAS2R38,taste 2 receptor member 38	K08474 TAS2R; taste receptor type 2,Chemoreception,Taste
+hsa:317701,VN1R2,vomeronasal 1 receptor 2	K04614 V1R; vomeronasal 1 receptor,Chemoreception,Vomeronasal pheromone
+hsa:317702,VN1R3,vomeronasal 1 receptor 3	K04614 V1R; vomeronasal 1 receptor,Chemoreception,Vomeronasal pheromone
+hsa:317703,VN1R4,vomeronasal 1 receptor 4	K04614 V1R; vomeronasal 1 receptor,Chemoreception,Vomeronasal pheromone
+hsa:317705,VN1R5,vomeronasal 1 receptor 5 (gene/pseudogene)	K04614 V1R; vomeronasal 1 receptor,Chemoreception,Vomeronasal pheromone
+hsa:57191,VN1R1,vomeronasal 1 receptor 1	K04614 V1R; vomeronasal 1 receptor,Chemoreception,Vomeronasal pheromone
+hsa:4935,GPR143,G protein-coupled receptor 143	K08470 OA1; ocular albinism type 1 protein,Others,Ocular albinism proteins
+hsa:57720,GPR107,G protein-coupled receptor 107	K22985 GPR107; G protein-coupled receptor 107,Others,Neuronostatin
+hsa:131601,TPRA1,transmembrane protein adipocyte associated 1	K22988 TPRA1; transmembrane protein adipocyte-associated 1,Others,Orphan GPCRs
+hsa:56927,GPR108,G protein-coupled receptor 108	K22986 GPR108; G protein-coupled receptor 108,Others,Orphan GPCRs
+hsa:283554,GPR137C,G protein-coupled receptor 137C	K22989 GPR137; integral membrane protein GPR137,Others,Orphan GPCRs
+hsa:56834,GPR137,G protein-coupled receptor 137	K22989 GPR137; integral membrane protein GPR137,Others,Orphan GPCRs
+hsa:7107,GPR137B,G protein-coupled receptor 137B	K22989 GPR137; integral membrane protein GPR137,Others,Orphan GPCRs
+hsa:80045,GPR157,G protein-coupled receptor 157	K08467 GPR157; G protein-coupled receptor 157,Others,Orphan GPCRs

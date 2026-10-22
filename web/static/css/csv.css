@@ -1,0 +1,97 @@
+html, body {
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/fond.jpg'); 
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh; 
+}
+table {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 15px auto; 
+    background: rgba(255, 255, 255, 0.8); 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+table thead {
+    background: #333;
+    color: #fff;
+}
+
+table th {
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+    border-bottom: 2px solid #333;
+}
+
+table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+table tbody tr:hover {
+    background: rgba(245, 245, 245, 0.8);
+}
+
+table tbody tr:nth-child(even) {
+    background: rgba(249, 249, 249, 0.8); 
+}
+.table-container {
+    overflow-x: auto;
+
+}
+.search-bar {
+    width: 85%;
+    padding: 8px;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.info-icon {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            background-color: #87a7c9ff;
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 16px;
+            font-size: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-left: 5px;
+            position: relative;
+        }
+        .tooltip {
+            visibility: hidden;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 8px 12px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            white-space: nowrap;
+            font-size: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        .tooltip::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #333 transparent transparent transparent;
+        }
+        .info-icon:hover .tooltip {
+            visibility: visible;
+        }

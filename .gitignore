@@ -1,0 +1,4 @@
+.git_ancien/
+.git_historique_temporaire/
+.env
+.DS_Store
